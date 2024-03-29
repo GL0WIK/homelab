@@ -1,0 +1,7 @@
+all:
+prod:
+  hosts:
+    192.168.10.4: #vm-docker
+    192.168.10.5: #vm-ansible
+test:
+  hosts:
